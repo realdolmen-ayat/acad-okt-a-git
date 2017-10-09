@@ -5,7 +5,7 @@
 public class ImportantCommand{
 
 
-	public ImportantCommand(){
+	public ImportantCommand(String[] commands){
 
 	}
 
