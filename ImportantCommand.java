@@ -3,12 +3,11 @@
  * You seeing this Tjen?
  * */
 public class ImportantCommand{
+    int leeftijd;
 
-
-	public ImportantCommand(String[] commands){
-
+	public ImportantCommand(String command, int leeftijd){
+	
 	}
-
 	public ImportantCommand(String command){
 		return "Command: "+command;
 	}
@@ -16,4 +15,6 @@ public class ImportantCommand{
 	public String response(String resspone){
 	    return "hey ayat, mij  reactie is "+resspone;
     }
+
+
 }
