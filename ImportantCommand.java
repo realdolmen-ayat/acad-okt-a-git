@@ -15,6 +15,8 @@ public class ImportantCommand{
 	public String response(String resspone){
 	    return "hey ayat, mij  reactie is "+resspone;
     }
+	
+	public void whatevs(){}
 
 
 }
